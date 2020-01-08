@@ -10,6 +10,8 @@
       "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
       "officialNumber": 1,
       "rank": 1,
+      "addressRegion": "Trnavský",
+      "addressCity": "Piešťany",
       "votesAmount": 0,
       "isElected": false
     },
@@ -22,6 +24,9 @@
       "officialNumber": 2,
       "rank": 2,
       "votesAmount": 0,
+      "addressCity": "Bacúrov",
+      "addressDistrict": "",
+      "addressRegion": "Banskobystrický",
       "isElected": false
     },
     {
@@ -31,6 +36,8 @@
       "politicalParty": "\u013dS Na\u0161e Slovensko",
       "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
       "officialNumber": 3,
+      "addressCity": "Piešťany",
+      "addressRegion": "Trnavský",
       "rank": 3,
       "votesAmount": 0,
       "isElected": false
@@ -99,6 +106,9 @@
       "officialNumber": 9,
       "rank": 9,
       "votesAmount": 0,
+      "addressCity": "Tvrdošín",
+      "addressDistrict": "",
+      "addressRegion": "Žilinský",
       "isElected": false
     },
     {
@@ -120,6 +130,9 @@
       "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
       "officialNumber": 11,
       "rank": 11,
+      "addressCity": "Nová Dubnica",
+      "addressDistrict": "",
+      "addressRegion": "Trenčiansky",
       "votesAmount": 0,
       "isElected": false
     },
@@ -218,6 +231,9 @@
       "politicalParty": "\u013dS Na\u0161e Slovensko",
       "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
       "officialNumber": 20,
+      "addressCity": "Nitra",
+      "addressDistrict": "",
+      "addressRegion": "Nitriansky",
       "rank": 20,
       "votesAmount": 0,
       "isElected": false
@@ -306,9 +322,9 @@
       "politicalParty": "\u013dS Na\u0161e Slovensko",
       "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
       "officialNumber": 28,
+      "addressRegion": "Trnavský",
       "rank": 28,
-      "votesAmount": 0,
-      "isElected": false
+      "votesAmount": 0
     },
     {
       "name": "Du\u0161an Pacalaj",
@@ -350,6 +366,9 @@
       "politicalParty": "\u013dS Na\u0161e Slovensko",
       "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
       "officialNumber": 32,
+      "addressCity": "Bratislava",
+      "addressDistrict": "",
+      "addressRegion": "Bratislavský",
       "rank": 32,
       "votesAmount": 0,
       "isElected": false
@@ -493,6 +512,9 @@
       "politicalParty": "\u013dS Na\u0161e Slovensko",
       "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
       "officialNumber": 45,
+      "addressCity": "Bratislava",
+      "addressDistrict": "",
+      "addressRegion": "Bratislavský",
       "rank": 45,
       "votesAmount": 0,
       "isElected": false
@@ -1341,6 +1363,9 @@
       "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
       "officialNumber": 122,
       "rank": 122,
+      "addressCity": "Banská Bystrica",
+      "addressDistrict": "",
+      "addressRegion": "Banskobystrický",
       "votesAmount": 0,
       "isElected": false
     },
@@ -1649,6 +1674,9 @@
       "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
       "officialNumber": 150,
       "rank": 150,
+      "addressCity": "Spišská Belá",
+      "addressDistrict": "",
+      "addressRegion": "Prešovský",
       "votesAmount": 0,
       "isElected": false
     }
