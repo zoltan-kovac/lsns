@@ -18,41 +18,43 @@ const PeopleList = () => (
         return (
           <div><a href={photoUrl}>{name} ({addressRegion}, {addressCity})</a></div>
         )
-    })}
-
-    <h2>Kandidati</h2> */}
+    })} */}
     
     {kandidati.data.map(({
       name,
       officialNumber,
+      addressRegion,
+      addressCity,
     }) => {
       return (
-        <div className="fl w-25 pa2">
-          <div class="ba b--dotted db pa3 mb3">
-            {`${officialNumber}. ${name}`}
+        <div className="fl w-third pa2">
+          <article className="center bg-white br3 pa3 pa4-ns mv3 ba b--black-10 h6">
+            <div className="tc">
+              <img src="http://tachyons.io/img/avatar_1.jpg" className="br-100 h4 w4 dib ba b--black-05 pa2" title={name} />
+              <h1 className="f3 mb2">{`${officialNumber}. ${name}`}</h1>
+              {addressRegion && <h2 className="f5 fw4 gray mt0">{addressRegion} Kraj, {addressCity}</h2>}
 
-            {poslanci.map(({
-              lastName,
-              addressCity,
-              addressRegion,
-              photoUrl,
-              partyDepartmentKey,
-            }) => {
-              const normalizedLastName = lastName.normalize("NFD").replace(/[\u0300-\u036f]/g, "")
+              {/* {poslanci.map(({
+                lastName,
+                addressCity,
+                addressRegion,
+                photoUrl,
+                partyDepartmentKey,
+              }) => {
+                const normalizedLastName = lastName.normalize("NFD").replace(/[\u0300-\u036f]/g, "")
 
-              console.log(name.indexOf(normalizedLastName) !== -1)
-              if (name.indexOf(normalizedLastName) !== -1) {
-                return (
-                  // <a href={photoUrl}>()</a>
-                  <p>{addressRegion}, {addressCity}</p>
-                )
-              }
-            })}
-          </div>
+                console.log(name.indexOf(normalizedLastName) !== -1)
+                if (name.indexOf(normalizedLastName) !== -1) {
+                  return (
+                    <h2 className="f5 fw4 gray mt0">{addressRegion}, {addressCity}</h2>
+                  )
+                }
+              })} */}
+            </div>
+          </article>
         </div>
       )
     })}
-
   </div>
 )
 
