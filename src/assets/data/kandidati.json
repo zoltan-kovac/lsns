@@ -1,1688 +1,1052 @@
-{
-  "orderBy": "officialNumber",
-  "orderWay": "asc",
-  "data": [
-    {
-      "name": "Marian Kotleba",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/65\/marian-kotleba",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 1,
-      "rank": 1,
-      "addressRegion": "Trnavský",
-      "addressCity": "Piešťany",
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Rastislav Schlos\u00e1r",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169305\/rastislav-schlosar",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 2,
-      "rank": 2,
-      "votesAmount": 0,
-      "addressCity": "Bacúrov",
-      "addressDistrict": "",
-      "addressRegion": "Banskobystrický",
-      "isElected": false
-    },
-    {
-      "name": "Martin Belusk\u00fd",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/167355\/martin-belusky",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 3,
-      "addressCity": "Piešťany",
-      "addressRegion": "Trnavský",
-      "rank": 3,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Eduard Ko\u010di\u0161",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169308\/eduard-kocis",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 4,
-      "rank": 4,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Magdal\u00e9na Sulanov\u00e1",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169311\/magdalena-sulanova",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 5,
-      "rank": 5,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Miroslav Urban",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/167367\/miroslav-urban",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 6,
-      "rank": 6,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Tom\u00e1\u0161 Taraba",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169314\/tomas-taraba",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 7,
-      "rank": 7,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Danica Mikov\u010d\u00e1kov\u00e1",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169317\/danica-mikovcakova",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 8,
-      "rank": 8,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Andrej Medveck\u00fd",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/168362\/andrej-medvecky",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 9,
-      "rank": 9,
-      "votesAmount": 0,
-      "addressCity": "Tvrdošín",
-      "addressDistrict": "",
-      "addressRegion": "Žilinský",
-      "isElected": false
-    },
-    {
-      "name": "Jozef \u0160imko",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/428\/jozef-simko",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 10,
-      "rank": 10,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Peter Krupa",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/168252\/peter-krupa",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 11,
-      "rank": 11,
-      "addressCity": "Nová Dubnica",
-      "addressDistrict": "",
-      "addressRegion": "Trenčiansky",
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Ondrej \u010eurica",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/167376\/ondrej-durica",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 12,
-      "rank": 12,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Stanislav Miz\u00edk",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/168286\/stanislav-mizik",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 13,
-      "rank": 13,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Vladim\u00edr Zeman",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169320\/vladimir-zeman",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 14,
-      "rank": 14,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Miroslav Suja",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/168357\/miroslav-suja",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 15,
-      "rank": 15,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Slav\u011bna Vorobelov\u00e1",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/554\/slavena-vorobelova",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 16,
-      "rank": 16,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Peter Molda",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169326\/peter-molda",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 17,
-      "rank": 17,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Rastislav Kysel",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/168359\/rastislav-kysel",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 18,
-      "rank": 18,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "\u0160tefan Hud\u00e1k",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169332\/stefan-hudak",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 19,
-      "rank": 19,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "J\u00e1n Kecsk\u00e9s",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/104\/jan-kecskes",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 20,
-      "addressCity": "Nitra",
-      "addressDistrict": "",
-      "addressRegion": "Nitriansky",
-      "rank": 20,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Vladim\u00edr Chovan",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169335\/vladimir-chovan",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 21,
-      "rank": 21,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Marek Kotleba",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/167379\/marek-kotleba",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 22,
-      "rank": 22,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Franti\u0161ek Drozd",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169338\/frantisek-drozd",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 23,
-      "rank": 23,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Miroslav Ram\u0161ak",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169341\/miroslav-ramsak",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 24,
-      "rank": 24,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Peter Oremus",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/92\/peter-oremus",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 25,
-      "rank": 25,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Marek G\u00e9ci",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169344\/marek-geci",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 26,
-      "rank": 26,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Lucia \u017du\u017eov\u00e1",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/167373\/lucia-zuzova",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 27,
-      "rank": 27,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Stanislav Drobn\u00fd",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/168199\/stanislav-drobny",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 28,
-      "addressRegion": "Trnavský",
-      "rank": 28,
-      "votesAmount": 0
-    },
-    {
-      "name": "Du\u0161an Pacalaj",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/139238\/dusan-pacalaj",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 29,
-      "rank": 29,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Radovan Hr\u00e1dek",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/167005\/radovan-hradek",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 30,
-      "rank": 30,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Matej Melicher\u010d\u00edk",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/167808\/matej-melichercik",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 31,
-      "rank": 31,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Mari\u00e1n Chmel\u00e1r",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/1349\/marian-chmelar",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 32,
-      "addressCity": "Bratislava",
-      "addressDistrict": "",
-      "addressRegion": "Bratislavský",
-      "rank": 32,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Filip Kuffa",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/167343\/filip-kuffa",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 33,
-      "rank": 33,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Du\u0161an Kri\u010dko",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169347\/dusan-kricko",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 34,
-      "rank": 34,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Ladislav Sv\u00ed\u010dka",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169350\/ladislav-svicka",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 35,
-      "rank": 35,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "\u0160tefan Kuffa",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/167325\/stefan-kuffa",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 36,
-      "rank": 36,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "\u0160tefan Krn\u00e1\u010d",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169353\/stefan-krnac",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 37,
-      "rank": 37,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Rudolf Huliak",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169356\/rudolf-huliak",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 38,
-      "rank": 38,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Mari\u00e1n Mi\u0161\u00fan",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/1757\/marian-misun",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 39,
-      "rank": 39,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Miroslav Potan\u010dok",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169359\/miroslav-potancok",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 40,
-      "rank": 40,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Anton Gr\u0148o",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/278\/anton-grno",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 41,
-      "rank": 41,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Krist\u00edna Cibu\u013eov\u00e1 Kuba\u0161kov\u00e1",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169362\/kristina-cibulova-kubaskova",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 42,
-      "rank": 42,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "J\u00e1n Pastuszek",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169365\/jan-pastuszek",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 43,
-      "rank": 43,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Andrea Hudecov\u00e1",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/242\/andrea-hudecova",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 44,
-      "rank": 44,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Nat\u00e1lia Grausov\u00e1",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/168208\/natalia-grausova",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 45,
-      "addressCity": "Bratislava",
-      "addressDistrict": "",
-      "addressRegion": "Bratislavský",
-      "rank": 45,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Juraj Suja",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169368\/juraj-suja",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 46,
-      "rank": 46,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Pavol Lazar",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169371\/pavol-lazar",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 47,
-      "rank": 47,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Pavol Kopeck\u00fd",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169374\/pavol-kopecky",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 48,
-      "rank": 48,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Jana Drengubiakov\u00e1",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169377\/jana-drengubiakova",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 49,
-      "rank": 49,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Helena Gold\u00edrov\u00e1",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169380\/helena-goldirova",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 50,
-      "rank": 50,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Peter Demjan",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169383\/peter-demjan",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 51,
-      "rank": 51,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Jozef Remen\u00e1r",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/130751\/jozef-remenar",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 52,
-      "rank": 52,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Tom\u00e1\u0161 \u0160pa\u010dek",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/162545\/tomas-spacek",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 53,
-      "rank": 53,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Ot\u00edlia Hamackov\u00e1",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/167709\/otilia-hamackova",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 54,
-      "rank": 54,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Lenka Bo\u010dkayov\u00e1",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/2210\/lenka-bockayova",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 55,
-      "rank": 55,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Adriana Zavadinkov\u00e1",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169386\/adriana-zavadinkova",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 56,
-      "rank": 56,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Radovan Kuruc",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169389\/radovan-kuruc",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 57,
-      "rank": 57,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Jaroslav Dud\u00e1\u0161",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169392\/jaroslav-dudas",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 58,
-      "rank": 58,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Emil Kup\u010d\u00edk",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169395\/emil-kupcik",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 59,
-      "rank": 59,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Pavol Ni\u017en\u00e1nsky",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/167352\/pavol-niznansky",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 60,
-      "rank": 60,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "M\u00e1ria Babinov\u00e1",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169398\/maria-babinova",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 61,
-      "rank": 61,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Tom\u00e1\u0161 Janco",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/162035\/tomas-janco",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 62,
-      "rank": 62,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Zuzana Bielen\u00e1",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169401\/zuzana-bielena",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 63,
-      "rank": 63,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Miroslav Vetr\u00edk",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/1691\/miroslav-vetrik",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 64,
-      "rank": 64,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Mari\u00e1n Tk\u00e1\u010d",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/167328\/marian-tkac",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 65,
-      "rank": 65,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Vladim\u00edr Repka",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169404\/vladimir-repka",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 66,
-      "rank": 66,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Tibor P\u00e9nze\u0161",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169407\/tibor-penzes",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 67,
-      "rank": 67,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Martin Mal\u00edk",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169410\/martin-malik",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 68,
-      "rank": 68,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Katar\u00edna \u0160lamiarov\u00e1",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169413\/katarina-slamiarova",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 69,
-      "rank": 69,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Stanislava Zervanov\u00e1",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/131366\/stanislava-zervanova",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 70,
-      "rank": 70,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Marek Tr\u0161o",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/130403\/marek-trso",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 71,
-      "rank": 71,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Michaela Sahul",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169416\/michaela-sahul",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 72,
-      "rank": 72,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Peter Zajac \u2013 Vanka",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169419\/peter-zajac-vanka",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 73,
-      "rank": 73,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Marcel Urban",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169422\/marcel-urban",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 74,
-      "rank": 74,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Viliam P\u00fa\u010dek",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169425\/viliam-pucek",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 75,
-      "rank": 75,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Du\u0161an \u017diak",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169428\/dusan-ziak",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 76,
-      "rank": 76,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Juraj Barto\u0161",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169431\/juraj-bartos",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 77,
-      "rank": 77,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Vladim\u00edr Krn\u00e1\u010d",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169434\/vladimir-krnac",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 78,
-      "rank": 78,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Roman Van\u010do",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169437\/roman-vanco",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 79,
-      "rank": 79,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Alojz Han\u010din",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/167706\/alojz-hancin",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 80,
-      "rank": 80,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "J\u00e1n Stanko",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/140351\/jan-stanko",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 81,
-      "rank": 81,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Kristi\u00e1n Babic",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169440\/kristian-babic",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 82,
-      "rank": 82,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Stanislav Dole\u017e",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169443\/stanislav-dolez",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 83,
-      "rank": 83,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "R\u00f3bert Pukalovi\u010d",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/167583\/robert-pukalovic",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 84,
-      "rank": 84,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Michaela Horn\u00e1\u010dkov\u00e1",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/161267\/michaela-hornackova",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 85,
-      "rank": 85,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Branislav Ladick\u00fd",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/166453\/branislav-ladicky",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 86,
-      "rank": 86,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Peter Kozinka",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169446\/peter-kozinka",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 87,
-      "rank": 87,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Andrej Gmitter",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/302\/andrej-gmitter",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 88,
-      "rank": 88,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Anna Matul\u00e1kov\u00e1",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169449\/anna-matulakova",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 89,
-      "rank": 89,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Juraj Vodensk\u00fd",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169452\/juraj-vodensky",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 90,
-      "rank": 90,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Klaudia Hru\u0161kov\u00e1",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/166090\/klaudia-hruskova",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 91,
-      "rank": 91,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Krist\u00edna La\u0161\u0161\u00e1kov\u00e1",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/1634\/kristina-lassakova",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 92,
-      "rank": 92,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Jozef Michalko",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169455\/jozef-michalko",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 93,
-      "rank": 93,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Katar\u00edna Gajdo\u0161ov\u00e1",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169458\/katarina-gajdosova",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 94,
-      "rank": 94,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Peter Ridzo\u0148",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/182487\/peter-ridzon-1991",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 95,
-      "rank": 95,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Slavom\u00edr Bla\u017eek",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169464\/slavomir-blazek",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 96,
-      "rank": 96,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Just\u00edn Horvatovi\u010d",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/161585\/justin-horvatovic",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 97,
-      "rank": 97,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Petra \u010cie\u0161kov\u00e1",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169467\/petra-cieskova",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 98,
-      "rank": 98,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Slavom\u00edr Dluba\u010d",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169470\/slavomir-dlubac",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 99,
-      "rank": 99,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Peter Sagan",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/182490\/peter-sagan-1983",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 100,
-      "rank": 100,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Jana \u0160puntov\u00e1",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/140270\/jana-spuntova",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 101,
-      "rank": 101,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Rudolf Fr\u00fd\u017eelka",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/134342\/rudolf-fryzelka",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 102,
-      "rank": 102,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "M\u00e1ria Moj\u017ei\u0161ov\u00e1",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169476\/maria-mojzisova",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 103,
-      "rank": 103,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Milo\u0161 Rybansk\u00fd",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/131000\/milos-rybansky",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 104,
-      "rank": 104,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Mari\u00e1n Barti\u0161ek",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169479\/marian-bartisek",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 105,
-      "rank": 105,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Ter\u00e9zia Lengyelov\u00e1",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169482\/terezia-lengyelova",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 106,
-      "rank": 106,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Jozef Garab\u00edk",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169485\/jozef-garabik",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 107,
-      "rank": 107,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Zuzana Jurkechov\u00e1",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169488\/zuzana-jurkechova",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 108,
-      "rank": 108,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Jakub Novotn\u00fd",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169491\/jakub-novotny",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 109,
-      "rank": 109,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Marek Hlavat\u00fd",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169494\/marek-hlavaty",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 110,
-      "rank": 110,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Viktor Gur\u010d\u00edk",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169497\/viktor-gurcik",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 111,
-      "rank": 111,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Ren\u00e9 Bal\u00e1k",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169500\/rene-balak",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 112,
-      "rank": 112,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Martin Feran\u010d\u00edk",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169503\/martin-ferancik",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 113,
-      "rank": 113,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Jozef Baranec",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169506\/jozef-baranec",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 114,
-      "rank": 114,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Bronislav Sebastian Hudek",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169509\/bronislav-sebastian-hudek",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 115,
-      "rank": 115,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Miroslav Klimo",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169512\/miroslav-klimo",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 116,
-      "rank": 116,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Juraj Brandajsk\u00fd",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169515\/juraj-brandajsky",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 117,
-      "rank": 117,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Du\u0161an Rajtek",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/136238\/dusan-rajtek",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 118,
-      "rank": 118,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "J\u00e1n Plavucha",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169518\/jan-plavucha",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 119,
-      "rank": 119,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Jozef Mravec",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169521\/jozef-mravec",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 120,
-      "rank": 120,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Anton \u010cekan",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/161804\/anton-cekan",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 121,
-      "rank": 121,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Martin Kotleba",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/168246\/martin-kotleba",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 122,
-      "rank": 122,
-      "addressCity": "Banská Bystrica",
-      "addressDistrict": "",
-      "addressRegion": "Banskobystrický",
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Radovan Hynek",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169524\/radovan-hynek",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 123,
-      "rank": 123,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Ondrej Kurovsk\u00fd",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169527\/ondrej-kurovsky",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 124,
-      "rank": 124,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Vladim\u00edra \u0160midtov\u00e1",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169530\/vladimira-smidtova",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 125,
-      "rank": 125,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "\u013dubom\u00edr Polt\u00e1rsky",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169533\/lubomir-poltarsky",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 126,
-      "rank": 126,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Branislav Grzn\u00e1r",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169536\/branislav-grznar",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 127,
-      "rank": 127,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Simona Lap\u00ednov\u00e1",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169539\/simona-lapinova",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 128,
-      "rank": 128,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Peter Kov\u00e1\u010d",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169542\/peter-kovac",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 129,
-      "rank": 129,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Peter \u010eur\u010do",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169545\/peter-durco",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 130,
-      "rank": 130,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Jozef F\u00fcrek",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169548\/jozef-fuerek",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 131,
-      "rank": 131,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Zolt\u00e1n Zsid\u00f3",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169551\/zoltan-zsido",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 132,
-      "rank": 132,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Allan Gava\u010d",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169554\/allan-gavac",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 133,
-      "rank": 133,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Igor Ferjo",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169557\/igor-ferjo",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 134,
-      "rank": 134,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "M\u00e1ria Fr\u00e1gnerov\u00e1",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169560\/maria-fragnerova",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 135,
-      "rank": 135,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Pavol Sitkani\u010d",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169563\/pavol-sitkanic",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 136,
-      "rank": 136,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Peter Stra\u0148\u00e1k",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/182493\/peter-stranak-1953",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 137,
-      "rank": 137,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Mario Gogora",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/162578\/mario-gogora",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 138,
-      "rank": 138,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Marek Bel\u00e1k",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/791\/marek-belak",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 139,
-      "rank": 139,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Ivan Nem\u010dek",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169569\/ivan-nemcek",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 140,
-      "rank": 140,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Ondrej Katu\u0161ka",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169572\/ondrej-katuska",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 141,
-      "rank": 141,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Radoslav J\u00e1no\u0161\u00edk",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169575\/radoslav-janosik",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 142,
-      "rank": 142,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Jozef Miku\u0161",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/182496\/jozef-mikus-1939",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 143,
-      "rank": 143,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Jozef T\u00fdnus",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169581\/jozef-tynus",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 144,
-      "rank": 144,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Rudolf Pardubsk\u00fd",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169584\/rudolf-pardubsky",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 145,
-      "rank": 145,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Simona Domov\u00e1",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169587\/simona-domova",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 146,
-      "rank": 146,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Jakub Hajduk",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/142577\/jakub-hajduk",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 147,
-      "rank": 147,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Du\u0161an Pin\u010d\u00edk",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/136148\/dusan-pincik",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 148,
-      "rank": 148,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Marek Darmo",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/169590\/marek-darmo",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 149,
-      "rank": 149,
-      "votesAmount": 0,
-      "isElected": false
-    },
-    {
-      "name": "Milan Mazurek",
-      "candidateStatusId": 1,
-      "personUrl": "https:\/\/www.sme.sk\/os\/167358\/milan-mazurek",
-      "politicalParty": "\u013dS Na\u0161e Slovensko",
-      "politicalPartyUrl": "https:\/\/www.sme.sk\/ps\/163\/ls-nase-slovensko",
-      "officialNumber": 150,
-      "rank": 150,
-      "addressCity": "Spišská Belá",
-      "addressDistrict": "",
-      "addressRegion": "Prešovský",
-      "votesAmount": 0,
-      "isElected": false
-    }
-  ],
-  "isNextPageAvailable": false,
-  "tabPage": 1,
-  "nameOrPoliticalPartyName": null,
-  "elected": false
-}
+[
+  {
+    "officialNumber": 1,
+    "name" : "Marian Kotleba, Ing. Mgr.",
+    "age" : 42,
+    "work" : "poslanec NR SR",
+    "city" : "Banská Bystrica"
+  },
+  {
+    "officialNumber": 2,
+    "name" : "Rastislav Schlosár, Mgr.",
+    "age" : 35,
+    "work" : "poslanec NR SR",
+    "city" : "Bacúrov"
+  },
+  {
+    "officialNumber": 3,
+    "name" : "Martin Beluský, Ing., PhD.",
+    "age" : 32,
+    "work" : "poslanec NR SR",
+    "city" : "Piešťany"
+  },
+  {
+    "officialNumber": 4,
+    "name" : "Eduard Kočiš, Mgr.",
+    "age" : 37,
+    "work" : "opatrovateľ v Dome detí Božieho Milosrdenstva",
+    "city" : "Stropkov"
+  },
+  {
+    "officialNumber": 5,
+    "name" : "Magdaléna Sulanová, Ing.",
+    "age" : 67,
+    "work" : "SZČO",
+    "city" : "Bratislava"
+  },
+  {
+    "officialNumber": 6,
+    "name" : "Miroslav Urban, MUDr.",
+    "age" : 46,
+    "work" : "primár Ústrednej vojenskej nemocnice SNP Ružomberok",
+    "city" : "Štiavnička"
+  },
+  {
+    "officialNumber": 7,
+    "name" : "Tomáš Taraba, Ing. Mgr.",
+    "age" : 40,
+    "work" : "predseda politickej strany KDŽP – Aliancia za Slovensko",
+    "city" : "Pezinok"
+  },
+  {
+    "officialNumber": 8,
+    "name" : "Danica Mikovčáková, Mgr.",
+    "age" : 43,
+    "work" : "zdravotná sestra – špecialistka",
+    "city" : "Zvolen"
+  },
+  {
+    "officialNumber": 9,
+    "name" : "Andrej Medvecký",
+    "age" : 32,
+    "work" : "podpredseda strany",
+    "city" : "Tvrdošín"
+  },
+  {
+    "officialNumber": 10,
+    "name" : "Jozef Šimko, JUDr.",
+    "age" : 69,
+    "work" : "primátor mesta",
+    "city" : "Rimavská Sobota"
+  },
+  {
+    "officialNumber": 11,
+    "name" : "Peter Krupa",
+    "age" : 39,
+    "work" : "poslanec NR SR",
+    "city" : "Nová Dubnica"
+  },
+  {
+    "officialNumber": 12,
+    "name" : "Ondrej Ďurica",
+    "age" : 42,
+    "work" : "asistent poslanca NR SR",
+    "city" : "Nitra"
+  },
+  {
+    "officialNumber": 13,
+    "name" : "Stanislav Mizík, Mgr.",
+    "age" : 56,
+    "work" : "poslanec NR SR",
+    "city" : "Rovné"
+  },
+  {
+    "officialNumber": 14,
+    "name" : "Vladimír Zeman, Ing.",
+    "age" : 74,
+    "work" : "asistent poslanca NR SR",
+    "city" : "Bratislava"
+  },
+  {
+    "officialNumber": 15,
+    "name" : "Miroslav Suja, PaedDr.",
+    "age" : 43,
+    "work" : "podpredseda strany",
+    "city" : "Detva"
+  },
+  {
+    "officialNumber": 16,
+    "name" : "Slavěna Vorobelová, Ing.",
+    "age" : 38,
+    "work" : "predsedníčka strany Národná koalícia",
+    "city" : "Humenné"
+  },
+  {
+    "officialNumber": 17,
+    "name" : "Peter Molda, Ing.",
+    "age" : 38,
+    "work" : "manažér krízového riadenia",
+    "city" : "Smolenice"
+  },
+  {
+    "officialNumber": 18,
+    "name" : "Rastislav Kysel",
+    "age" : 42,
+    "work" : "asistent poslanca NR SR",
+    "city" : "Dolná Trnávka"
+  },
+  {
+    "officialNumber": 19,
+    "name" : "Štefan Hudák",
+    "age" : 40,
+    "work" : "živnostník",
+    "city" : "Moldava nad Bodvou"
+  },
+  {
+    "officialNumber": 20,
+    "name" : "Ján Kecskés, Mgr.",
+    "age" : 30,
+    "work" : "poslanec NR SR",
+    "city" : "Nitra"
+  },
+  {
+    "officialNumber": 21,
+    "name" : "Vladimír Chovan, Ing.",
+    "age" : 56,
+    "work" : "generálny riaditeľ",
+    "city" : "Trnava"
+  },
+  {
+    "officialNumber": 22,
+    "name" : "Marek Kotleba, Bc.",
+    "age" : 36,
+    "work" : "živnostník",
+    "city" : "Banská Bystrica"
+  },
+  {
+    "officialNumber": 23,
+    "name" : "František Drozd",
+    "age" : 59,
+    "work" : "redaktor alternatívneho spravodajstva",
+    "city" : "Čadca"
+  },
+  {
+    "officialNumber": 24,
+    "name" : "Miroslav Ramšak, Ing.",
+    "age" : 35,
+    "work" : "živnostník",
+    "city" : "Trebišov"
+  },
+  {
+    "officialNumber": 25,
+    "name" : "Peter Oremus, Ing., PhD.",
+    "age" : 43,
+    "work" : "riaditeľ spoločnosti",
+    "city" : "Nitra"
+  },
+  {
+    "officialNumber": 26,
+    "name" : "Marek Géci, JUDr.",
+    "age" : 36,
+    "work" : "právnik",
+    "city" : "Ludanice"
+  },
+  {
+    "officialNumber": 27,
+    "name" : "Lucia Žužová, JUDr.",
+    "age" : 45,
+    "work" : "asistentka poslanca NR SR",
+    "city" : "Staré"
+  },
+  {
+    "officialNumber": 28,
+    "name" : "Stanislav Drobný, Bc.",
+    "age" : 49,
+    "work" : "poslanec NR SR",
+    "city" : "Piešťany"
+  },
+  {
+    "officialNumber": 29,
+    "name" : "Dušan Pacalaj",
+    "age" : 57,
+    "work" : "starosta",
+    "city" : "Malá Lehota"
+  },
+  {
+    "officialNumber": 30,
+    "name" : "Radovan Hrádek, Mgr.",
+    "age" : 65,
+    "work" : "advokát",
+    "city" : "Gabčíkovo"
+  },
+  {
+    "officialNumber": 31,
+    "name" : "Matej Melicherčík, Ing.",
+    "age" : 31,
+    "work" : "konateľ",
+    "city" : "Kalinovo"
+  },
+  {
+    "officialNumber": 32,
+    "name" : "Marián Chmelár, Bc.",
+    "age" : 59,
+    "work" : "poslanec NR SR",
+    "city" : "Bratislava"
+  },
+  {
+    "officialNumber": 33,
+    "name" : "Filip Kuffa, Ing. et Ing.",
+    "age" : 32,
+    "work" : "lesník",
+    "city" : "Kežmarok"
+  },
+  {
+    "officialNumber": 34,
+    "name" : "Dušan Kričko, Mgr.",
+    "age" : 55,
+    "work" : "zástupca primátora",
+    "city" : "Turany"
+  },
+  {
+    "officialNumber": 35,
+    "name" : "Ladislav Svíčka",
+    "age" : 78,
+    "work" : "dôchodca",
+    "city" : "Hlohovec"
+  },
+  {
+    "officialNumber": 36,
+    "name" : "Štefan Kuffa, PhDr.",
+    "age" : 58,
+    "work" : "riaditeľ hospicu Sv. Alžbety",
+    "city" : "Kežmarok"
+  },
+  {
+    "officialNumber": 37,
+    "name" : "Štefan Krnáč, MUDr.",
+    "age" : 42,
+    "work" : "lekár",
+    "city" : "Hriňová"
+  },
+  {
+    "officialNumber": 38,
+    "name" : "Rudolf Huliak, Ing.",
+    "age" : 44,
+    "work" : "živnostník",
+    "city" : "Očová"
+  },
+  {
+    "officialNumber": 39,
+    "name" : "Marián Mišún, Mgr.",
+    "age" : 40,
+    "work" : "robotník v zlievarni",
+    "city" : "Púchov"
+  },
+  {
+    "officialNumber": 40,
+    "name" : "Miroslav Potančok",
+    "age" : 45,
+    "work" : "IT špecialista",
+    "city" : "Banská Bystrica"
+  },
+  {
+    "officialNumber": 41,
+    "name" : "Anton Grňo",
+    "age" : 48,
+    "work" : "živnostník",
+    "city" : "Bánovce nad Bebravou"
+  },
+  {
+    "officialNumber": 42,
+    "name" : "Kristína Cibuľová Kubašková, Mgr.",
+    "age" : 43,
+    "work" : "farmaceutka",
+    "city" : "Banská Bystrica"
+  },
+  {
+    "officialNumber": 43,
+    "name" : "Ján Pastuszek, Bc.",
+    "age" : 23,
+    "work" : "asistent poslanca NRSR, študent",
+    "city" : "Kežmarok"
+  },
+  {
+    "officialNumber": 44,
+    "name" : "Andrea Hudecová",
+    "age" : 40,
+    "work" : "manažérka financií",
+    "city" : "Nové Zámky"
+  },
+  {
+    "officialNumber": 45,
+    "name" : "Natália Grausová, MUDr.",
+    "age" : 66,
+    "work" : "poslankyňa NR SR",
+    "city" : "Bratislava"
+  },
+  {
+    "officialNumber": 46,
+    "name" : "Juraj Suja",
+    "age" : 59,
+    "work" : "SZČO",
+    "city" : "Hradište"
+  },
+  {
+    "officialNumber": 47,
+    "name" : "Pavol Lazar",
+    "age" : 40,
+    "work" : "živnostník, kontrolór",
+    "city" : "Žilina"
+  },
+  {
+    "officialNumber": 48,
+    "name" : "Pavol Kopecký, Ing.",
+    "age" : 41,
+    "work" : "podnikateľ",
+    "city" : "Kežmarok"
+  },
+  {
+    "officialNumber": 49,
+    "name" : "Jana Drengubiaková",
+    "age" : 46,
+    "work" : "živnostníčka",
+    "city" : "Bodorová"
+  },
+  {
+    "officialNumber": 50,
+    "name" : "Helena Goldírová, JUDr.",
+    "age" : 65,
+    "work" : "právnička",
+    "city" : "Košice"
+  },
+  {
+    "officialNumber": 51,
+    "name" : "Peter Demjan",
+    "age" : 35,
+    "work" : "manažér predaja",
+    "city" : "Humenné"
+  },
+  {
+    "officialNumber": 52,
+    "name" : "Jozef Remenár",
+    "age" : 43,
+    "work" : "hasič-záchranár, inštruktor v autoškole",
+    "city" : "Bučany"
+  },
+  {
+    "officialNumber": 53,
+    "name" : "Tomáš Špaček",
+    "age" : 23,
+    "work" : "študent",
+    "city" : "Bratislava"
+  },
+  {
+    "officialNumber": 54,
+    "name" : "Otília Hamacková, Ing. JUDr., PhD.",
+    "age" : 64,
+    "work" : "SZČO",
+    "city" : "Plevník – Drienové"
+  },
+  {
+    "officialNumber": 55,
+    "name" : "Lenka Bočkayová, Mgr.",
+    "age" : 35,
+    "work" : "pedagogička",
+    "city" : "Topoľčany"
+  },
+  {
+    "officialNumber": 56,
+    "name" : "Adriana Zavadinková",
+    "age" : 46,
+    "work" : "vedúca výroby",
+    "city" : "Tisovec"
+  },
+  {
+    "officialNumber": 57,
+    "name" : "Radovan Kuruc",
+    "age" : 33,
+    "work" : "nezamestnaný",
+    "city" : "Nové Zámky"
+  },
+  {
+    "officialNumber": 58,
+    "name" : "Jaroslav Dudáš, Mgr.",
+    "age" : 44,
+    "work" : "inžinier kvality",
+    "city" : "Veľký Krtíš"
+  },
+  {
+    "officialNumber": 59,
+    "name" : "Emil Kupčík",
+    "age" : 47,
+    "work" : "živnostník",
+    "city" : "Zubrohlava"
+  },
+  {
+    "officialNumber": 60,
+    "name" : "Pavol Nižnánsky, Bc.",
+    "age" : 36,
+    "work" : "podnikateľ",
+    "city" : "Trnava"
+  },
+  {
+    "officialNumber": 61,
+    "name" : "Mária Babinová, Mgr.",
+    "age" : 31,
+    "work" : "medzinárodná manažérka predaja",
+    "city" : "Humenné"
+  },
+  {
+    "officialNumber": 62,
+    "name" : "Tomáš Janco, Mgr.",
+    "age" : 33,
+    "work" : "konzultant",
+    "city" : "Košice"
+  },
+  {
+    "officialNumber": 63,
+    "name" : "Zuzana Bielená, Mgr.",
+    "age" : 51,
+    "work" : "vedúca sestra FNsP Žilina",
+    "city" : "Radoľa"
+  },
+  {
+    "officialNumber": 64,
+    "name" : "Miroslav Vetrík, Mgr.",
+    "age" : 44,
+    "work" : "podnikateľ",
+    "city" : "Bratislava"
+  },
+  {
+    "officialNumber": 65,
+    "name" : "Marián Tkáč, Ing., PhD.",
+    "age" : 70,
+    "work" : "dôchodca",
+    "city" : "Bratislava"
+  },
+  {
+    "officialNumber": 66,
+    "name" : "Vladimír Repka",
+    "age" : 62,
+    "work" : "živnostník",
+    "city" : "Hontianske Tesáre"
+  },
+  {
+    "officialNumber": 67,
+    "name" : "Tibor Pénzeš, Mgr.",
+    "age" : 33,
+    "work" : "špecialista prevádzkového manažmentu",
+    "city" : "Nové Zámky"
+  },
+  {
+    "officialNumber": 68,
+    "name" : "Martin Malík, Ing.",
+    "age" : 43,
+    "work" : "živnostník",
+    "city" : "Nové Mesto nad Váhom"
+  },
+  {
+    "officialNumber": 69,
+    "name" : "Katarína Šlamiarová",
+    "age" : 37,
+    "work" : "predavačka",
+    "city" : "Bzovík"
+  },
+  {
+    "officialNumber": 70,
+    "name" : "Stanislava Zervanová, JUDr.",
+    "age" : 40,
+    "work" : "starostka obce",
+    "city" : "Brunovce"
+  },
+  {
+    "officialNumber": 71,
+    "name" : "Marek Tršo",
+    "age" : 38,
+    "work" : "manažér",
+    "city" : "Sekule"
+  },
+  {
+    "officialNumber": 72,
+    "name" : "Michaela Sahul",
+    "age" : 45,
+    "work" : "nezamestnaná",
+    "city" : "Bánovce nad Bebravou"
+  },
+  {
+    "officialNumber": 73,
+    "name" : "Peter Zajac – Vanka, Ing.",
+    "age" : 64,
+    "work" : "dôchodca",
+    "city" : "Bratislava"
+  },
+  {
+    "officialNumber": 74,
+    "name" : "Marcel Urban",
+    "age" : 37,
+    "work" : "servisný technik",
+    "city" : "Lúka"
+  },
+  {
+    "officialNumber": 75,
+    "name" : "Viliam Púček",
+    "age" : 49,
+    "work" : "učiteľ",
+    "city" : "Smižany"
+  },
+  {
+    "officialNumber": 76,
+    "name" : "Dušan Žiak, Ing.",
+    "age" : 52,
+    "work" : "konateľ spoločnosti",
+    "city" : "Rožňava"
+  },
+  {
+    "officialNumber": 77,
+    "name" : "Juraj Bartoš",
+    "age" : 48,
+    "work" : "vedúci výroby",
+    "city" : "Košeca"
+  },
+  {
+    "officialNumber": 78,
+    "name" : "Vladimír Krnáč",
+    "age" : 52,
+    "work" : "SZČO",
+    "city" : "Kriváň"
+  },
+  {
+    "officialNumber": 79,
+    "name" : "Roman Vančo",
+    "age" : 36,
+    "work" : "teamleader",
+    "city" : "Sereď"
+  },
+  {
+    "officialNumber": 80,
+    "name" : "Alojz Hančin, Ing.",
+    "age" : 51,
+    "work" : "stavebný manažér",
+    "city" : "Želiezovce"
+  },
+  {
+    "officialNumber": 81,
+    "name" : "Ján Stanko",
+    "age" : 48,
+    "work" : "starosta obce",
+    "city" : "Parihuzovce"
+  },
+  {
+    "officialNumber": 82,
+    "name" : "Kristián Babic, Bc.",
+    "age" : 23,
+    "work" : "študent",
+    "city" : "Bernolákovo"
+  },
+  {
+    "officialNumber": 83,
+    "name" : "Stanislav Dolež",
+    "age" : 49,
+    "work" : "živnostník",
+    "city" : "Nitra"
+  },
+  {
+    "officialNumber": 84,
+    "name" : "Róbert Pukalovič, Mgr.",
+    "age" : 59,
+    "work" : "tréner, manažér ľadového hokeja",
+    "city" : "Bratislava"
+  },
+  {
+    "officialNumber": 85,
+    "name" : "Michaela Hornáčková",
+    "age" : 30,
+    "work" : "asistentka – radkyňa",
+    "city" : "Bratislava"
+  },
+  {
+    "officialNumber": 86,
+    "name" : "Branislav Ladický, Mgr.",
+    "age" : 33,
+    "work" : "pedagóg",
+    "city" : "Trenčín"
+  },
+  {
+    "officialNumber": 87,
+    "name" : "Peter Kozinka, Mgr.",
+    "age" : 38,
+    "work" : "manažér",
+    "city" : "Tovarníky"
+  },
+  {
+    "officialNumber": 88,
+    "name" : "Andrej Gmitter, Ing.",
+    "age" : 54,
+    "work" : "živnostník",
+    "city" : "Bardejov"
+  },
+  {
+    "officialNumber": 89,
+    "name" : "Anna Matuláková, PhDr., PhD.",
+    "age" : 46,
+    "work" : "živnostníčka",
+    "city" : "Bojnice"
+  },
+  {
+    "officialNumber": 90,
+    "name" : "Juraj Vodenský, PhDr. Mgr.",
+    "age" : 41,
+    "work" : "podnikateľ",
+    "city" : "Bratislava"
+  },
+  {
+    "officialNumber": 91,
+    "name" : "Klaudia Hrušková",
+    "age" : 42,
+    "work" : "SZČO",
+    "city" : "Banská Bystrica"
+  },
+  {
+    "officialNumber": 92,
+    "name" : "Kristína Laššáková",
+    "age" : 34,
+    "work" : "asistentka poslanca NR SR",
+    "city" : "Bratislava"
+  },
+  {
+    "officialNumber": 93,
+    "name" : "Jozef Michalko, Ing.",
+    "age" : 53,
+    "work" : "projektový inžinier",
+    "city" : "Liptovský Hrádok"
+  },
+  {
+    "officialNumber": 94,
+    "name" : "Katarína Gajdošová",
+    "age" : 36,
+    "work" : "čašníčka",
+    "city" : "Malý Šariš"
+  },
+  {
+    "officialNumber": 95,
+    "name" : "Peter Ridzoň",
+    "age" : 28,
+    "work" : "záchranár",
+    "city" : "Lom nad Rimavicou"
+  },
+  {
+    "officialNumber": 96,
+    "name" : "Slavomír Blažek, Ing., PhD.",
+    "age" : 32,
+    "work" : "projektový manažér",
+    "city" : "Šamorín"
+  },
+  {
+    "officialNumber": 97,
+    "name" : "Justín Horvatovič, Mgr.",
+    "age" : 36,
+    "work" : "výrobný riaditeľ",
+    "city" : "Bratislava"
+  },
+  {
+    "officialNumber": 98,
+    "name" : "Petra Čiešková, Mgr.",
+    "age" : 29,
+    "work" : "asistentka sociálnej práce – terénna sociálna pracovníčka",
+    "city" : "Rimavská Sobota"
+  },
+  {
+    "officialNumber": 99,
+    "name" : "Slavomír Dlubač",
+    "age" : 45,
+    "work" : "invalidný dôchodca, živnostník",
+    "city" : "Banská Belá"
+  },
+  {
+    "officialNumber": 100,
+    "name" : "Peter Sagan",
+    "age" : 36,
+    "work" : "vodič kamiónu",
+    "city" : "Oslany"
+  },
+  {
+    "officialNumber": 101,
+    "name" : "Jana Špuntová, Ing.",
+    "age" : 47,
+    "work" : "riaditeľka",
+    "city" : "Belá nad Cirochou"
+  },
+  {
+    "officialNumber": 102,
+    "name" : "Rudolf Frýželka, Ing.",
+    "age" : 42,
+    "work" : "starosta",
+    "city" : "Úľany nad Žitavou"
+  },
+  {
+    "officialNumber": 103,
+    "name" : "Mária Mojžišová",
+    "age" : 62,
+    "work" : "poradkyňa spotrebiteľa",
+    "city" : "Žilina"
+  },
+  {
+    "officialNumber": 104,
+    "name" : "Miloš Rybanský",
+    "age" : 49,
+    "work" : "zástupca regionálneho riaditeľa",
+    "city" : "Voderady"
+  },
+  {
+    "officialNumber": 105,
+    "name" : "Marián Bartišek",
+    "age" : 54,
+    "work" : "administratívny pracovník",
+    "city" : "Trenčianske Stankovce"
+  },
+  {
+    "officialNumber": 106,
+    "name" : "Terézia Lengyelová, Mgr.",
+    "age" : 70,
+    "work" : "sestra",
+    "city" : "Košice"
+  },
+  {
+    "officialNumber": 107,
+    "name" : "Jozef Garabík",
+    "age" : 50,
+    "work" : "živnostník",
+    "city" : "Klieština"
+  },
+  {
+    "officialNumber": 108,
+    "name" : "Zuzana Jurkechová",
+    "age" : 34,
+    "work" : "praktická sestra",
+    "city" : "Považská Bystrica"
+  },
+  {
+    "officialNumber": 109,
+    "name" : "Jakub Novotný, Bc.",
+    "age" : 25,
+    "work" : "pracovník v cestovnom ruchu",
+    "city" : "Košice"
+  },
+  {
+    "officialNumber": 110,
+    "name" : "Marek Hlavatý",
+    "age" : 31,
+    "work" : "SZČO",
+    "city" : "Slovenský Grob"
+  },
+  {
+    "officialNumber": 111,
+    "name" : "Viktor Gurčík",
+    "age" : 44,
+    "work" : "podnikateľ",
+    "city" : "Ľubica"
+  },
+  {
+    "officialNumber": 112,
+    "name" : "René Balák, Dr., PhD.",
+    "age" : 52,
+    "work" : "logistic manager",
+    "city" : "Piešťany"
+  },
+  {
+    "officialNumber": 113,
+    "name" : "Martin Ferančík, Mgr.",
+    "age" : 30,
+    "work" : "konateľ spoločnosti",
+    "city" : "Dolný Kubín"
+  },
+  {
+    "officialNumber": 114,
+    "name" : "Jozef Baranec",
+    "age" : 45,
+    "work" : "SZČO",
+    "city" : "Žitavany"
+  },
+  {
+    "officialNumber": 115,
+    "name" : "Bronislav Sebastian Hudek",
+    "age" : 22,
+    "work" : "študent",
+    "city" : "Rybník"
+  },
+  {
+    "officialNumber": 116,
+    "name" : "Miroslav Klimo, Ing.",
+    "age" : 35,
+    "work" : "konštruktér",
+    "city" : "Očová"
+  },
+  {
+    "officialNumber": 117,
+    "name" : "Juraj Brandajský",
+    "age" : 25,
+    "work" : "asistent poslanca NR SR",
+    "city" : "Bojná"
+  },
+  {
+    "officialNumber": 118,
+    "name" : "Dušan Rajtek",
+    "age" : 54,
+    "work" : "živnostník",
+    "city" : "Kysucký Lieskovec"
+  },
+  {
+    "officialNumber": 119,
+    "name" : "Ján Plavucha",
+    "age" : 27,
+    "work" : "nezamestnaný",
+    "city" : "Detvianska Huta"
+  },
+  {
+    "officialNumber": 120,
+    "name" : "Jozef Mravec, Ing.",
+    "age" : 66,
+    "work" : "dôchodca",
+    "city" : "Detva"
+  },
+  {
+    "officialNumber": 121,
+    "name" : "Anton Čekan",
+    "age" : 29,
+    "work" : "test technik",
+    "city" : "Košice"
+  },
+  {
+    "officialNumber": 122,
+    "name" : "Martin Kotleba, Ing.",
+    "age" : 41,
+    "work" : "poslanec NR SR",
+    "city" : "Banská Bystrica"
+  },
+  {
+    "officialNumber": 123,
+    "name" : "Radovan Hynek",
+    "age" : 45,
+    "work" : "zámočník – zvárač",
+    "city" : "Trnava"
+  },
+  {
+    "officialNumber": 124,
+    "name" : "Ondrej Kurovský",
+    "age" : 51,
+    "work" : "živnostník",
+    "city" : "Vechec"
+  },
+  {
+    "officialNumber": 125,
+    "name" : "Vladimíra Šmidtová, Bc.",
+    "age" : 39,
+    "work" : "asistentka sociálnej práce",
+    "city" : "Turčok"
+  },
+  {
+    "officialNumber": 126,
+    "name" : "Ľubomír Poltársky",
+    "age" : 63,
+    "work" : "dôchodca",
+    "city" : "Lučenec"
+  },
+  {
+    "officialNumber": 127,
+    "name" : "Branislav Grznár, Bc.",
+    "age" : 28,
+    "work" : "tenisový tréner",
+    "city" : "Partizánske"
+  },
+  {
+    "officialNumber": 128,
+    "name" : "Simona Lapínová",
+    "age" : 28,
+    "work" : "nezamestnaná",
+    "city" : "Detva"
+  },
+  {
+    "officialNumber": 129,
+    "name" : "Peter Kováč",
+    "age" : 39,
+    "work" : "obchodný zástupca",
+    "city" : "Malacky"
+  },
+  {
+    "officialNumber": 130,
+    "name" : "Peter Ďurčo, Bc.",
+    "age" : 42,
+    "work" : "SZČO",
+    "city" : "Nová Dedinka"
+  },
+  {
+    "officialNumber": 131,
+    "name" : "Jozef Fürek, Ing.",
+    "age" : 52,
+    "work" : "SZČO",
+    "city" : "Bratislava"
+  },
+  {
+    "officialNumber": 132,
+    "name" : "Zoltán Zsidó",
+    "age" : 58,
+    "work" : "pracovník SBS",
+    "city" : "Tekovské Lužany"
+  },
+  {
+    "officialNumber": 133,
+    "name" : "Allan Gavač, Ing.",
+    "age" : 57,
+    "work" : "konateľ spoločnosti",
+    "city" : "Bratislava"
+  },
+  {
+    "officialNumber": 134,
+    "name" : "Igor Ferjo, Mgr.",
+    "age" : 51,
+    "work" : "súkromný podnikateľ",
+    "city" : "Vinné"
+  },
+  {
+    "officialNumber": 135,
+    "name" : "Mária Frágnerová",
+    "age" : 68,
+    "work" : "SZČO",
+    "city" : "Nový Ruskov"
+  },
+  {
+    "officialNumber": 136,
+    "name" : "Pavol Sitkanič, Mgr.",
+    "age" : 51,
+    "work" : "výsluhový dôchodca",
+    "city" : "Stropkov"
+  },
+  {
+    "officialNumber": 137,
+    "name" : "Peter Straňák, MUDr.",
+    "age" : 66,
+    "work" : "všeobecný lekár pre deti a dorast",
+    "city" : "Námestovo"
+  },
+  {
+    "officialNumber": 138,
+    "name" : "Mario Gogora, Ing.",
+    "age" : 43,
+    "work" : "konateľ spoločnosti",
+    "city" : "Bratislava"
+  },
+  {
+    "officialNumber": 139,
+    "name" : "Marek Belák, Ing.",
+    "age" : 54,
+    "work" : "poslanec mesta Martin",
+    "city" : "Martin"
+  },
+  {
+    "officialNumber": 140,
+    "name" : "Ivan Nemček, Ing.",
+    "age" : 68,
+    "work" : "stavebný technik",
+    "city" : "Bratislava"
+  },
+  {
+    "officialNumber": 141,
+    "name" : "Ondrej Katuška, Bc.",
+    "age" : 29,
+    "work" : "technik BOZP",
+    "city" : "Bardejov"
+  },
+  {
+    "officialNumber": 142,
+    "name" : "Radoslav Jánošík, Mgr.",
+    "age" : 38,
+    "work" : "územný riaditeľ",
+    "city" : "Točnica"
+  },
+  {
+    "officialNumber": 143,
+    "name" : "Jozef Mikuš",
+    "age" : 80,
+    "work" : "dôchodca",
+    "city" : "Častá"
+  },
+  {
+    "officialNumber": 144,
+    "name" : "Jozef Týnus, Ing.",
+    "age" : 62,
+    "work" : "konateľ s.r.o.",
+    "city" : "Lučenec"
+  },
+  {
+    "officialNumber": 145,
+    "name" : "Rudolf Pardubský",
+    "age" : 76,
+    "work" : "národohospodár",
+    "city" : "Bratislava"
+  },
+  {
+    "officialNumber": 146,
+    "name" : "Simona Domová, Mgr.",
+    "age" : 24,
+    "work" : "odborná radkyňa",
+    "city" : "Lučenec"
+  },
+  {
+    "officialNumber": 147,
+    "name" : "Jakub Hajduk, PhDr., MPA",
+    "age" : 29,
+    "work" : "učiteľ",
+    "city" : "Mlynárovce"
+  },
+  {
+    "officialNumber": 148,
+    "name" : "Dušan Pinčík",
+    "age" : 63,
+    "work" : "dôchodca",
+    "city" : "Hlboké nad Váhom"
+  },
+  {
+    "officialNumber": 149,
+    "name" : "Marek Darmo",
+    "age" : 37,
+    "work" : "konateľ spoločnosti",
+    "city" : "Zvolen"
+  },
+  {
+    "officialNumber": 150,
+    "name" : "Milan Mazurek",
+    "age" : 26,
+    "work" : "asistent poslanca NR SR",
+    "city" : "Spišská Belá"
+  }
+ ]
