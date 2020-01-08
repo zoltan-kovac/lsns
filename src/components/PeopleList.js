@@ -28,7 +28,7 @@ const PeopleList = () => (
     }) => {
       return (
         <div className="fl w-third pa2">
-          <article className="center bg-white br3 pa3 pa4-ns mv3 ba b--black-10 h6">
+          <article className="center bg-white br3 pa3 pa4-ns ba b--black-10 h6">
             <div className="tc">
               <img src="http://tachyons.io/img/avatar_1.jpg" className="br-100 h4 w4 dib ba b--black-05 pa2" title={name} />
               <h1 className="f3 mb2">{`${officialNumber}. ${name}`}</h1>
